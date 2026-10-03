@@ -53,13 +53,13 @@ The repository currently covers:
 ```text
 Deep-Learning-with-Pytorch/
 │
-├── Tensors Fundamentals.ipynb
+├── PyTorch_Fundamentals.ipynb
 │
-├── Pytorch_WorkFlow_Fundamentals.ipynb
+├── PyTorch_WorkFlow_Fundamentals.ipynb
 │
-├── Pytorch_Neural_Network_Classification.ipynb
+├── PyTorch_Neural_Network_Classification.ipynb
 │
-├── Pytorch_Computer_Vision.ipynb
+├── PyTorch_Computer_Vision.ipynb
 │
 └── README.md
 ```
